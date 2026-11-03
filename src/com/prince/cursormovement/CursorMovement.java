@@ -17,7 +17,7 @@ public class CursorMovement {
     private static final DateTimeFormatter TIME_FORMATTER =
             DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
 
-    private static final int MOVEMENT_DISTANCE = 5;
+    private static final int MOVEMENT_DISTANCE = 2;
     private static final int MOVEMENT_DELAY_MS = 1000;
     private static final int INTERVAL_MS = 60000;
 
